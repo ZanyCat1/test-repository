@@ -2,7 +2,7 @@
 
 ## Installation
 
-pip install Flask\n
+pip install Flask  
 python app.py
 
 ## Description
